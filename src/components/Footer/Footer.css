@@ -1,0 +1,35 @@
+/* App.css */
+body, html {
+    height: 100%;
+    margin: 0;
+  }
+  
+  #root {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+  }
+  
+  .app {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+  }
+  
+  .content {
+    flex: 1;
+  }
+  
+  /* Footer.css */
+  .footer {
+    background-color: transparent;
+    padding: 20px 0;
+    text-align: center;
+    margin-top: auto;
+  }
+  
+  .footer p {
+    margin: 0;
+    color: #6c757d;
+  }
+  

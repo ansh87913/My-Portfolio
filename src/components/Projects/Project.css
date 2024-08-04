@@ -1,0 +1,8 @@
+.custom {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: left;
+    align-items: center;
+    min-height: 10vh;
+    margin-left: 60px;
+  }
