@@ -9,7 +9,7 @@ export default function Certificate() {
     const data = [
         {dlink:"https://drive.google.com/file/d/1DD6QKZ42Wf074mCXWS9b1b8UBTzHMhRi/view", image:aws, title:"AWS Certified Cloud Practitioner", org:"AWS"},
         {dlink:"https://drive.google.com/file/d/1XcBDLAk5o7LzVgGYFgDFuNHQcvExMwyP/view", image:mern, title:"MERN Full Stack Internship Program", org:"ETHNUS"},
-        {dlink:"https://drive.google.com/file/d/1cv2SU26ffdtyGd8SmFbiYHbE9kiQwv1W/view?usp=drive_link", image:gavs, title:"MERN Full Stack Internship Program", org:"GS Labs|Gavs"}
+        {dlink:"https://drive.google.com/file/d/1cv2SU26ffdtyGd8SmFbiYHbE9kiQwv1W/view?usp=drive_link", image:gavs, title:"Gen-A-thon Hackathon", org:"GS Labs|Gavs"}
         // Add more items if necessary
     ];
 
