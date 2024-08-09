@@ -11,7 +11,7 @@ const projectsData = [
     github: "https://github.com/ansh87913/Frontend-Deployment",
   },
   {
-    id: 1,
+    id: 2,
     imageUrl: P2,
     tags: ["JavaScript", "React"],
     title: "Calculator",
