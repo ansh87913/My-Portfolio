@@ -8,7 +8,7 @@ const projectsData = [
     imageUrl: P3,
     tags: ["JavaScript", "React", "HTML", "CSS", "Bootstrap"],
     title: "Portfolio",
-    description: "Created a responsive personal portfolio website using React.js, JavaScript, HTML, CSS, and Bootstrap. The site features sections such as About, Skills, Projects, Certificate, Education, Resume, and Contact Me form, offering a comprehensive overview of my professional profile. It includes a dynamic UI all styled with Bootstrap and CSS for a modern design and optimized for all devices",
+    description: "Created a responsive personal portfolio website using React.js, JavaScript, HTML, CSS, and Bootstrap. It includes a dynamic UI all styled with Bootstrap and CSS for a modern design and optimized for all devices",
     github: "https://github.com/ansh87913/My-Portfolio",
   },
   {
