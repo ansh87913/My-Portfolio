@@ -21,7 +21,7 @@ export default function Nav(){
             <Link to="/education">Education</Link>
           </li>
           <li class="link">
-            <a href="https://drive.google.com/file/d/18gimo0cGrUGe9I7QtK5Wx5RW4wTucM2K/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Resume</a>
+            <a href="https://drive.google.com/file/d/1A05KNWkmRJNAZEL-6AHMCZUezD_97cgs/view?usp=sharing" target="_blank" rel="noopener noreferrer">Resume</a>
           </li>
           <li class="link">
             <Link to="/contact">Contact Me</Link>
