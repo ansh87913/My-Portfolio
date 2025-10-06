@@ -35,7 +35,7 @@ function Education() {
           <h5 className="vertical-timeline-element-subtitle mt-2">
             Vellore Institute of Technology, Chennai 
           </h5>
-          <p>CGPA: 8.72</p>
+          <p>CGPA: 8.76</p>
           <p>
           I am currently in my final year of B.Tech in Computer Science and Engineering, focusing on advanced topics in full stack development, cloud computing, and data structures and algorithms.
           </p>
