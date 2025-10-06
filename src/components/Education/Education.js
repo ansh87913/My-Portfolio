@@ -37,7 +37,7 @@ function Education() {
           </h5>
           <p>CGPA: 8.76</p>
           <p>
-          I am currently in my final year of B.Tech in Computer Science and Engineering, focusing on advanced topics in full stack development, cloud computing, and data structures and algorithms.
+          I am a Full Stack Developer proficient in MERN stack with expertise in creating dynamic web applications. I am an AWS Certified Cloud Practitioner adept at leveraging cloud technologies. I am also skilled in C++ for DSA problem-solving.
           </p>
         </VerticalTimelineElement>
 
